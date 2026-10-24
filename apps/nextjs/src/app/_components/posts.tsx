@@ -112,7 +112,7 @@ export function CreatePostForm() {
           }}
         />
       </FieldGroup>
-      <Button type="submit">Create</Button>
+      <Button type="submit">Post</Button>
     </form>
   );
 }
